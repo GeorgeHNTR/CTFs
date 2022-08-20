@@ -1,3 +1,6 @@
 [submodule "capture-the-ether"]
 	path = capture-the-ether
 	url = https://github.com/GeorgiGeorgiev7/capture-the-ether
+[submodule "damn-vulnerable-defi"]
+	path = damn-vulnerable-defi
+	url = https://github.com/GeorgiGeorgiev7/damn-vulnerable-defi
