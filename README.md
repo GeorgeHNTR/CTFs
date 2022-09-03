@@ -6,7 +6,7 @@ __CTFs__ (Capture The Flags / War games) are security challenges where vulnerabl
 Currently working on:
 - [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
 - [Capture The Ether](https://capturetheether.com/challenges/)
+- [Ethernaut](https://ethernaut.openzeppelin.com/)
 
 To solve:
-- [Ethernaut](https://ethernaut.openzeppelin.com/)
 - [Paradigm](https://github.com/paradigmxyz/paradigm-ctf-2021)
